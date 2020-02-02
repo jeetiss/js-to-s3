@@ -1,5 +1,5 @@
 {
-  "name": "js-on-s3",
+  "name": "js-to-s3",
   "version": "0.0.0",
   "description": "",
   "main": "lib/index.js",
